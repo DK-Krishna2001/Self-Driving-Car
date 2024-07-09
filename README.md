@@ -10,7 +10,7 @@ This code is purely for research and statistics, absolutely **NOT** for applicat
 
 ## How to Use
 
-1. Download the dataset and extract it into the repository folder.
+1. Download the [driving dataset](https://github.com/K96guestzone/Driving-Dataset) and extract it into the repository folder.
 2. Use `python train.py` to train the model.
 3. Use `python run.py` to run the model on a live webcam feed.
 4. Use `python run_dataset.py` to run the model on the dataset.
